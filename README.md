@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 - 🤔 一个住校初中生
-
+- 🌊 **tidain**，取自 *tide*（潮汐）与 *rain*（雨），意为「潮汐涌入」
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
@@ -49,7 +49,7 @@
 ---
 
 ### 🤝 联系我
-[![邮箱](https://img.shields.io/badge/邮箱-这里是邮箱喵~-blue?)](mailto:tidain@qq.com)
+[![邮箱](https://img.shields.io/badge/邮箱-这里是邮箱喵~-blue)](mailto:tidain@qq.com)
 
 
 <p align="center">
