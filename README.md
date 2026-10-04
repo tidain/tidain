@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+tidain;Code+with+passion+%E2%9C%A8;Made+with+%F0%9F%92%97+on+Android" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+tidain;Code+with+passion+%E2%9C%A8" />
 </p>
 
 <br>
